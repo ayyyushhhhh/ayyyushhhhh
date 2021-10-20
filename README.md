@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayush Rawat</h1>
 <h3 align="center">A passionate Flutter developer from India. I love creating flutter apps. I'm eager to learn as well to teach flutter.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayyyushhhhh" alt="ayyyushhhhh" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/fueledbynokia" target="blank"><img src="https://img.shields.io/twitter/follow/fueledbynokia?logo=twitter&style=for-the-badge" alt="fueledbynokia" /></a> </p>
 
 - 🔭 I’m currently working on [Track and Grow](https://play.google.com/store/apps/details?id=com.scarecrowhouse.activity_tracker)
@@ -32,3 +30,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayyyushhhhh&show_icons=true&locale=en" alt="ayyyushhhhh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayyyushhhhh&" alt="ayyyushhhhh" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayyyushhhhh" alt="ayyyushhhhh" /></a> </p>
