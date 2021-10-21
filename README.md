@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ayush002rawat@gmail.com**
 
-- ⚡ Fun fact **Drink Water,Write Code**
+- ⚡ Fun fact **Keep it Simple,State**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
