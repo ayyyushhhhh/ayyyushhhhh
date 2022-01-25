@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/fueledbynokia" target="blank"><img src="https://img.shields.io/twitter/follow/fueledbynokia?logo=twitter&style=for-the-badge" alt="fueledbynokia" /></a> </p>
 
-- 🔭 I’m currently working on [Track and Grow](https://play.google.com/store/apps/details?id=com.scarecrowhouse.activity_tracker)
+- 🔭 I’m currently working on [Makdeck](https://play.google.com/store/apps/details?id=com.scarecrowhouse.makdeck)
 
 - 🌱 I’m currently learning **Machine Learning & AI**
 
