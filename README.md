@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Machine Learning & AI**
 
-- 👯 I’m looking to collaborate on [Track and Grow](https://play.google.com/store/apps/details?id=com.scarecrowhouse.activity_tracker)
+- 👯 I’m looking to collaborate on [Makdeck](https://play.google.com/store/apps/details?id=com.scarecrowhouse.makdeck)
 
 - 💬 Ask me about **Flutter , Python**
 
