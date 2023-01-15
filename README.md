@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/fueledbynokia" target="blank"><img src="https://img.shields.io/twitter/follow/fueledbynokia?logo=twitter&style=for-the-badge" alt="fueledbynokia" /></a> </p>
 
-- 🔭 I’m currently working on [Makdeck](https://play.google.com/store/apps/details?id=com.scarecrowhouse.makdeck)
+- 🔭 I’m currently working on [Space](https://github.com/ayyyushhhhh/space)
 
 - 🌱 I’m currently learning **Machine Learning & AI**
 
-- 👯 I’m looking to collaborate on [Makdeck](https://play.google.com/store/apps/details?id=com.scarecrowhouse.makdeck)
+- 👯 I’m looking to collaborate on [Space](https://github.com/ayyyushhhhh/space)
 
 - 💬 Ask me about **Flutter , Python**
 
